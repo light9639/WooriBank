@@ -1569,16 +1569,16 @@ header #mNav {
 }
 .infoWrap .center .pc_info li a span {
   position: relative;
-  bottom: 25%;
-  left: 75%;
+  bottom: 50%;
+  left: 50%;
   background: url(../img/btngo_ov.png) no-repeat;
   background-size: cover;
   width: 45px;
   height: 45px;
   font-size: 0px;
   display: block;
-  -webkit-transform: none;
-          transform: none;
+  -webkit-transform: translate(100%, 110%);
+          transform: translate(100%, 110%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -1607,16 +1607,16 @@ header #mNav {
 }
 .infoWrap .center .mobile_info ul span {
   position: relative;
-  bottom: 25%;
-  left: 75%;
+  bottom: 50%;
+  left: 50%;
   background: url(../img/btngo_ov.png) no-repeat;
   background-size: cover;
   width: 40px;
   height: 40px;
   font-size: 0px;
   display: block;
-  -webkit-transform: none;
-          transform: none;
+  -webkit-transform: translate(100%, 110%);
+          transform: translate(100%, 110%);
   -webkit-transition: 0.25s;
   transition: 0.25s;
 }
